@@ -1,0 +1,1 @@
+docker build . -t ubuntu:1804_amd64
